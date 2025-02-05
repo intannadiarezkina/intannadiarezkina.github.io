@@ -1,0 +1,52 @@
+#about {
+  margin-top: -20px;
+}
+body {
+  background-color: #FFB4A2;
+}
+#projects {
+  background-color: #FFCDB2;
+}
+.col h2 {
+  margin-top: 100px;
+}
+#about .container h2 {
+  margin-top: -30px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #FFB4A2;
+}
+.jumbotron img {
+  width: 200px;
+}
+#projects .card-body a:hover {
+  color: black;
+  background-color: aliceblue;
+}
+body {
+  font-family: poppins;
+}
+#contact button:hover {
+  background-color: white;
+  color: black;
+}
+footer p,
+a {
+  color: black;
+  text-decoration: none;
+}
+footer {
+  padding-bottom: 40px;
+  background-color: #FFB4A2;
+}
+#contact a {
+  color: white;
+}
+footer p a:hover {
+  color: black;
+}
+#contact a:hover {
+  color: black;
+  background-color: white;
+}
